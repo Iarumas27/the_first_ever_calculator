@@ -1,7 +1,7 @@
 # My first ever calculator V2.0
 #
 from colorama import init
-from colorama import Fore, Back, Style
+from colorama import Back
 
 
 def main():
